@@ -50,4 +50,5 @@
 [pull]
   rebase = false
 [user]
-	name = Beatriz Galinod
+	name = Beatriz Galindo
+	email = b.galindo@me.com
